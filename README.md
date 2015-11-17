@@ -1,5 +1,5 @@
 # CS342-Recursion
-# author - Jeremiah Johnson 
+author - Jeremiah Johnson 
 
 
 This project was a college assignment for my Data Structures course, which focuses on recursion. This assignment has 
